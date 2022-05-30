@@ -69,7 +69,7 @@ function myfunc() {
         document.getElementById("b6").disabled = true;
         document.getElementById("b7").disabled = true;
         document.getElementById("b8").disabled = true;
-        window.alert('Player X won');
+        window.alert('Jogador X won');
     }
     else if ((b3 == 'x' || b3 == 'X') && (b5 == 'x' ||
         b5 == 'X') && (b7 == 'x' || b7 == 'X')) {
